@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: PosterManagerTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.148 s <<< FAILURE! - in PosterManagerTest
+test  Time elapsed: 0.137 s  <<< ERROR!
+java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at PosterManagerTest.test(PosterManagerTest.java:10)
+
+test2  Time elapsed: 0 s  <<< ERROR!
+java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at PosterManagerTest.test2(PosterManagerTest.java:24)
+
